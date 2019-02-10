@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode657RobotReturnToOrigin", "LeetCode657RobotReturnToOrigin\LeetCode657RobotReturnToOrigin.csproj", "{80FE19AC-B3D8-4928-9BB1-BD18FBA8E6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FE19AC-B3D8-4928-9BB1-BD18FBA8E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FE19AC-B3D8-4928-9BB1-BD18FBA8E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FE19AC-B3D8-4928-9BB1-BD18FBA8E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FE19AC-B3D8-4928-9BB1-BD18FBA8E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E09D9B-4A11-4BDD-B06C-4511F7E84875}
+	EndGlobalSection
+EndGlobal
