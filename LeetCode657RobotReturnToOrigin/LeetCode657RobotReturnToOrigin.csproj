@@ -54,7 +54,7 @@
   <ItemGroup>
     <Compile Include="Solution.cs" />
     <Compile Include="SourceTemplates.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="SolutionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
