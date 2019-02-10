@@ -18,5 +18,18 @@ namespace LeetCode657RobotReturnToOrigin
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void Solution_JudgeCircle_LL_ShouldBe_False()
+        {
+            var input = "LL";
+
+            Solution solution = new Solution();
+            var actual = solution.JudgeCircle(input);
+
+            var expected = false;
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
